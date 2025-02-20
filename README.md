@@ -14,6 +14,7 @@ React.js
 Axios (HTTP kérésekhez)
 Adatbázis
 MySQL
+
 🚀 Funkcionalitás
 ✅ Gyümölcsök listázása
 ✅ Új gyümölcs hozzáadása
